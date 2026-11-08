@@ -1,0 +1,23 @@
+{
+  "name": "realtor-com-scraper",
+  "version": "1.0.0",
+  "description": "Extract for-sale and rental home listings, property taxes, school ratings, and agent details from Realtor.com.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "realtor-com",
+    "real-estate-scraper",
+    "property-listings",
+    "proptech",
+    "housing-market",
+    "apify-actor"
+  ],
+  "author": "Crawlomatic (https://crawlomatic.com)",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  }
+}
